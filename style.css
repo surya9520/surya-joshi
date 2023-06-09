@@ -8,6 +8,18 @@ body{
     background: linear-gradient(to right,#0f0c29,#302b63) ;
     
 }
+.sucess{
+    background-color:  #76ed76;
+    color: #fff;
+    padding: 0.2rem 2rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    display: none;
+    position:absolute;
+    /* z-index: 100; */
+    width: 100vw;
+}
 .container{
     width: 80%;
     margin: auto;
